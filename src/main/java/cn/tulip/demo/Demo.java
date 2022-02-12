@@ -1,0 +1,14 @@
+package cn.tulip.demo;
+
+/**
+ * Description: <demo>
+ *
+ * @author tulipYu
+ * @create 2022/2/12
+ * @since 1.0.0
+ */
+public class Demo {
+    public static void main(String[] args) {
+        System.out.println("demo demo !");
+    }
+}
