@@ -19,5 +19,8 @@ HelloWorld {
 
         // branch_test 分支 新增内容!
         System.out.println("branch_test branch add msg");
+
+        // push test
+        System.out.println(" master push test ! ");
     }
 }
