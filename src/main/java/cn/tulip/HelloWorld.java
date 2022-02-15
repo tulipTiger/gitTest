@@ -13,7 +13,11 @@ HelloWorld {
         System.out.println("Hello world");
         System.out.println(" HelloWorld  merge test! ");
         System.out.println(" HelloWorld  merge test! two ");
+
         // master 分支新增内容
         System.out.println(" master branch add msg! ");
+
+        // branch_test 分支 新增内容!
+        System.out.println("branch_test branch add msg");
     }
 }
