@@ -22,5 +22,8 @@ HelloWorld {
 
         // push test
         System.out.println(" master push test ! ");
+       
+        // pull test
+        System.out.println(" master pull test ! ");
     }
 }
